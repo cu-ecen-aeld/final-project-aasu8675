@@ -26,3 +26,7 @@
 	path = repos/meta-virtualization
 	url = https://github.com/lgirdk/meta-virtualization.git
 	branch = dunfell
+[submodule "repos/meta-nanovision-ai"]
+	path = repos/meta-nanovision-ai
+	url = https://github.com/aasu8675/meta-nanovision-ai.git
+	branch = main
