@@ -1,3 +1,5 @@
+![Build status](https://builder.madison.systems/badges/tegrademo-dunfell-32-7.svg)
+
 Project Teammembers:
 * Aamir Suhail Burhan
 * Suraj Ajjampur
