@@ -6,7 +6,8 @@
 cd build/
 
 # This is where we will place the files needed for flashing
-mkdir -p deploy
+sudo rm -rf deploy/
+mkdir deploy
 cd deploy/
 
 # Create a symbolic link for the .tar.gz image file from the tmp/deploy/images directory
