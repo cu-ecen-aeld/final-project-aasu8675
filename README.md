@@ -20,6 +20,9 @@ https://github.com/cu-ecen-aeld/final-project-aasu8675/issues
 
 https://github.com/cu-ecen-aeld/final-project-Suraj-Ajjampur/issues
 
+# Demo Video Wiki Page
+https://github.com/cu-ecen-aeld/final-project-aasu8675/wiki/Aamir's-Final-Project-Video
+
 # Building the OS Image
 Given below are the instruction to build the OS Image
 
